@@ -91,20 +91,20 @@
     },
     "entity.cow.ambient": {
         "sounds": [
-            { "name": "mob/cow/ambient1", "attenuation_distance": 16, "replace": true },
-            { "name": "mob/cow/ambient2", "attenuation_distance": 16, "replace": true },
-            { "name": "mob/cow/ambient3", "attenuation_distance": 16, "replace": true }
+            { "name": "entity/cow/ambient1", "attenuation_distance": 16, "replace": true },
+            { "name": "entity/cow/ambient2", "attenuation_distance": 16, "replace": true },
+            { "name": "entity/cow/ambient3", "attenuation_distance": 16, "replace": true }
         ]
     },
     "entity.cow.hurt": {
         "sounds": [
-            { "name": "mob/cow/hurt1", "attenuation_distance": 16, "replace": true },
-            { "name": "mob/cow/hurt2", "attenuation_distance": 16, "replace": true }
+            { "name": "entity/cow/hurt1", "attenuation_distance": 16, "replace": true },
+            { "name": "entity/cow/hurt2", "attenuation_distance": 16, "replace": true }
         ]
     },
     "entity.cow.death": {
         "sounds": [
-            { "name": "mob/cow/death", "attenuation_distance": 16, "replace": true }
+            { "name": "entity/cow/death", "attenuation_distance": 16, "replace": true }
         ]
     }
 }
