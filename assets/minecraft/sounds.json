@@ -1,184 +1,110 @@
 {
-    "entity.endermen.stare":{
-        "sounds":[
-            {"name": "mob/endermen/stare"}
+    "entity.endermen.stare": {
+        "sounds": [
+            { "name": "mob/endermen/stare", "attenuation_distance": 16 }
         ]
     },
-    "entity.endermen.scream":{
-        "sounds":[
-            {
-                "name": "mob/endermen/scream1"
-            },
-            {
-                "name": "mob/endermen/scream2"
-            },
-            {
-                "name": "mob/endermen/scream3"
-            },
-            {
-                "name": "mob/endermen/scream4"
-            }
+    "entity.endermen.scream": {
+        "sounds": [
+            { "name": "mob/endermen/scream1", "attenuation_distance": 16 },
+            { "name": "mob/endermen/scream2", "attenuation_distance": 16 },
+            { "name": "mob/endermen/scream3", "attenuation_distance": 16 },
+            { "name": "mob/endermen/scream4", "attenuation_distance": 16 }
         ]
     },
-    "entity.endermen.death":{
-        "sounds" :[
-            {
-                "name":"mob/endermen/death"
-            }
+    "entity.endermen.death": {
+        "sounds": [
+            { "name": "mob/endermen/death", "attenuation_distance": 16 }
         ]
     },
-    "entity.endermen.idle":{
-        "sounds":[
-            {
-                "name": "mob/endermen/idle1"
-            },
-            {
-                "name": "mob/endermen/idle2"
-            },
-            {
-                "name": "mob/endermen/idle3"
-            },
-            {
-                "name": "mob/endermen/idle4"
-            },
-            {
-                "name": "mob/endermen/idle5"
-            }
+    "entity.endermen.idle": {
+        "sounds": [
+            { "name": "mob/endermen/idle1", "attenuation_distance": 16 },
+            { "name": "mob/endermen/idle2", "attenuation_distance": 16 },
+            { "name": "mob/endermen/idle3", "attenuation_distance": 16 },
+            { "name": "mob/endermen/idle4", "attenuation_distance": 16 },
+            { "name": "mob/endermen/idle5", "attenuation_distance": 16 }
         ]
     },
-    "entity.endermen.hit":{
-        "sounds":[
-            {
-                "name":"mob/endermen/hit1"
-            },
-            {
-                "name":"mob/endermen/hit2"
-            },
-            {
-                "name":"mob/endermen/hit3"
-            },
-            {
-                "name":"mob/endermen/hit4"
-            }
+    "entity.endermen.hit": {
+        "sounds": [
+            { "name": "mob/endermen/hit1", "attenuation_distance": 16 },
+            { "name": "mob/endermen/hit2", "attenuation_distance": 16 },
+            { "name": "mob/endermen/hit3", "attenuation_distance": 16 },
+            { "name": "mob/endermen/hit4", "attenuation_distance": 16 }
         ]
     },
     "record.cat": {
-            "sounds": [
-                {
-                    "name": "records/cat",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.blocks": {
-            "sounds": [
-                {
-                    "name": "records/blocks",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.chirp": {
-            "sounds": [
-                {
-                    "name": "records/chirp",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.far": {
-            "sounds": [
-                {
-                    "name": "records/far",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.mall": {
-            "sounds": [
-                {
-                    "name": "records/mall",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.mellohi": {
-            "sounds": [
-                {
-                    "name": "records/mellohi",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.stal": {
-            "sounds": [
-                {
-                    "name": "records/stal",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.strad": {
-            "sounds": [
-                {
-                    "name": "records/strad",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.ward": {
-            "sounds": [
-                {
-                    "name": "records/ward",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.11": {
-            "sounds": [
-                {
-                    "name": "records/11",
-                    "attenuation_distance": 16
-                }
-            ]
-        },
-        "record.wait": {
-            "sounds": [
-                {
-                    "name": "records/wait",
-                    "attenuation_distance": 16
-                }
-            ]
-        }
-        ,
-        "entity.cow.ambient": {
-            "sounds": [
-                {
-                    "name": "mob/cow/ambient1"
-                },
-                {
-                    "name": "mob/cow/ambient2"
-                },
-                {
-                    "name": "mob/cow/ambient3"
-                }
-            ]
-        },
-        "entity.cow.hurt": {
-            "sounds": [
-                {
-                    "name": "mob/cow/hurt1"
-                },
-                {
-                    "name": "mob/cow/hurt2"
-                }
-            ]
-        },
-        "entity.cow.death": {
-            "sounds": [
-                {
-                    "name": "mob/cow/death"
-                }
-            ]
-        }
+        "sounds": [
+            { "name": "records/cat", "attenuation_distance": 16 }
+        ]
+    },
+    "record.blocks": {
+        "sounds": [
+            { "name": "records/blocks", "attenuation_distance": 16 }
+        ]
+    },
+    "record.chirp": {
+        "sounds": [
+            { "name": "records/chirp", "attenuation_distance": 16 }
+        ]
+    },
+    "record.far": {
+        "sounds": [
+            { "name": "records/far", "attenuation_distance": 16 }
+        ]
+    },
+    "record.mall": {
+        "sounds": [
+            { "name": "records/mall", "attenuation_distance": 16 }
+        ]
+    },
+    "record.mellohi": {
+        "sounds": [
+            { "name": "records/mellohi", "attenuation_distance": 16 }
+        ]
+    },
+    "record.stal": {
+        "sounds": [
+            { "name": "records/stal", "attenuation_distance": 16 }
+        ]
+    },
+    "record.strad": {
+        "sounds": [
+            { "name": "records/strad", "attenuation_distance": 16 }
+        ]
+    },
+    "record.ward": {
+        "sounds": [
+            { "name": "records/ward", "attenuation_distance": 16 }
+        ]
+    },
+    "record.11": {
+        "sounds": [
+            { "name": "records/11", "attenuation_distance": 16 }
+        ]
+    },
+    "record.wait": {
+        "sounds": [
+            { "name": "records/wait", "attenuation_distance": 16 }
+        ]
+    },
+    "entity.cow.ambient": {
+        "sounds": [
+            { "name": "mob/cow/ambient1", "attenuation_distance": 16 },
+            { "name": "mob/cow/ambient2", "attenuation_distance": 16 },
+            { "name": "mob/cow/ambient3", "attenuation_distance": 16 }
+        ]
+    },
+    "entity.cow.hurt": {
+        "sounds": [
+            { "name": "mob/cow/hurt1", "attenuation_distance": 16 },
+            { "name": "mob/cow/hurt2", "attenuation_distance": 16 }
+        ]
+    },
+    "entity.cow.death": {
+        "sounds": [
+            { "name": "mob/cow/death", "attenuation_distance": 16 }
+        ]
+    }
 }
