@@ -150,4 +150,35 @@
                 }
             ]
         }
+        ,
+        "entity.cow.ambient": {
+            "sounds": [
+                {
+                    "name": "mob/cow/ambient1"
+                },
+                {
+                    "name": "mob/cow/ambient2"
+                },
+                {
+                    "name": "mob/cow/ambient3"
+                }
+            ]
+        },
+        "entity.cow.hurt": {
+            "sounds": [
+                {
+                    "name": "mob/cow/hurt1"
+                },
+                {
+                    "name": "mob/cow/hurt2"
+                }
+            ]
+        },
+        "entity.cow.death": {
+            "sounds": [
+                {
+                    "name": "mob/cow/death"
+                }
+            ]
+        }
 }
