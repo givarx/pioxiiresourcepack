@@ -129,4 +129,26 @@
             { "name": "entity/cow/death2", "attenuation_distance": 16 }
         ]
     }
+    ,
+    "entity.chicken.ambient": {
+        "replace": true,
+        "sounds": [
+            { "name": "entity/chicken/ambient1", "attenuation_distance": 16 },
+            { "name": "entity/chicken/ambient2", "attenuation_distance": 16 },
+            { "name": "entity/chicken/ambient3", "attenuation_distance": 16 }
+        ]
+    },
+    "entity.chicken.hurt": {
+        "replace": true,
+        "sounds": [
+            { "name": "entity/chicken/hurt1", "attenuation_distance": 16 },
+            { "name": "entity/chicken/hurt2", "attenuation_distance": 16 }
+        ]
+    },
+    "entity.chicken.death": {
+        "replace": true,
+        "sounds": [
+            { "name": "entity/chicken/death1", "attenuation_distance": 16 }
+        ]
+    }
 }
