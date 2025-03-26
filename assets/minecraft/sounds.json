@@ -1,0 +1,66 @@
+{
+    "entity.endermen.stare":{
+        "sounds":[
+            {"name": "mob/endermen/stare"}
+        ]
+    },
+    "entity.endermen.scream":{
+        "sounds":[
+            {
+                "name": "mob/endermen/scream1"
+            },
+            {
+                "name": "mob/endermen/scream2"
+            },
+            {
+                "name": "mob/endermen/scream3"
+            },
+            {
+                "name": "mob/endermen/scream4"
+            }
+        ]
+    },
+    "entity.endermen.death":{
+        "sounds" :[
+            {
+                "name":"mob/endermen/death"
+            }
+        ]
+    },
+    "entity.endermen.idle":{
+        "sounds":[
+            {
+                "name": "mob/endermen/idle1"
+            },
+            {
+                "name": "mob/endermen/idle2"
+            },
+            {
+                "name": "mob/endermen/idle3"
+            },
+            {
+                "name": "mob/endermen/idle4"
+            },
+            {
+                "name": "mob/endermen/idle5"
+            }
+        ]
+    },
+    "entity.endermen.hit":{
+        "sounds":[
+            {
+                "name":"mob/endermen/hit1"
+            },
+            {
+                "name":"mob/endermen/hit2"
+            },
+            {
+                "name":"mob/endermen/hit3"
+            },
+            {
+                "name":"mob/endermen/hit4"
+            }
+        ]
+    }
+
+}
