@@ -61,6 +61,93 @@
                 "name":"mob/endermen/hit4"
             }
         ]
-    }
-
+    },
+    "record.cat": {
+            "sounds": [
+                {
+                    "name": "records/cat",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.blocks": {
+            "sounds": [
+                {
+                    "name": "records/blocks",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.chirp": {
+            "sounds": [
+                {
+                    "name": "records/chirp",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.far": {
+            "sounds": [
+                {
+                    "name": "records/far",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.mall": {
+            "sounds": [
+                {
+                    "name": "records/mall",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.mellohi": {
+            "sounds": [
+                {
+                    "name": "records/mellohi",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.stal": {
+            "sounds": [
+                {
+                    "name": "records/stal",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.strad": {
+            "sounds": [
+                {
+                    "name": "records/strad",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.ward": {
+            "sounds": [
+                {
+                    "name": "records/ward",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.11": {
+            "sounds": [
+                {
+                    "name": "records/11",
+                    "attenuation_distance": 16
+                }
+            ]
+        },
+        "record.wait": {
+            "sounds": [
+                {
+                    "name": "records/wait",
+                    "attenuation_distance": 16
+                }
+            ]
+        }
 }
