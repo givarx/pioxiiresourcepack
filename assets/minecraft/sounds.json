@@ -155,30 +155,30 @@
     "entity.zombie.ambient": {
         "replace": true,
         "sounds": [
-            { "name": "entity/zombie/ambient1", "attenuation_distance": 16 },
-            { "name": "entity/zombie/ambient2", "attenuation_distance": 16 },
-            { "name": "entity/zombie/ambient3", "attenuation_distance": 16 },
-            { "name": "entity/zombie/ambient4", "attenuation_distance": 16 }
+            { "name": "mob/zombie/ambient1", "attenuation_distance": 16 },
+            { "name": "mob/zombie/ambient2", "attenuation_distance": 16 },
+            { "name": "mob/zombie/ambient3", "attenuation_distance": 16 },
+            { "name": "mob/zombie/ambient4", "attenuation_distance": 16 }
         ]
     },
     "entity.zombie.hurt": {
         "replace": true,
         "sounds": [
-            { "name": "entity/zombie/hurt1", "attenuation_distance": 16 },
-            { "name": "entity/zombie/hurt2", "attenuation_distance": 16 },
-            { "name": "entity/zombie/hurt3", "attenuation_distance": 16 }
+            { "name": "mob/zombie/hurt1", "attenuation_distance": 16 },
+            { "name": "mob/zombie/hurt2", "attenuation_distance": 16 },
+            { "name": "mob/zombie/hurt3", "attenuation_distance": 16 }
         ]
     },
     "entity.zombie.death": {
         "replace": true,
         "sounds": [
-            { "name": "entity/zombie/death1", "attenuation_distance": 16 }
+            { "name": "mob/zombie/death1", "attenuation_distance": 16 }
         ]
     },
     "entity.zombie.infect": {
         "replace": true,
         "sounds": [
-            { "name": "entity/zombie/infect1", "attenuation_distance": 16 }
+            { "name": "mob/zombie/infect1", "attenuation_distance": 16 }
         ]
     }
 }
