@@ -184,9 +184,9 @@
     "entity.villager.ambient": {
         "replace": true, "attenuation_distance": 16,
         "sounds": [
-            { "name": "entity/villager/ambient1" },
-            { "name": "entity/villager/ambient2" },
-            { "name": "entity/villager/ambient3" }
+            { "name": "entity/villager/haggle1" },
+            { "name": "entity/villager/haggle3" },
+            { "name": "entity/villager/haggle2" }
         ]
     },
     "entity.villager.hurt": {
@@ -201,7 +201,7 @@
     "entity.villager.death": {
         "replace": true, "attenuation_distance": 16,
         "sounds": [
-            { "name": "entity/villager/death1" }
+            { "name": "entity/villager/death" }
         ]
     }
     ,
