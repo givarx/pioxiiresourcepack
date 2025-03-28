@@ -184,10 +184,10 @@
     "entity.villager.hurt": {
         "replace": true,
         "sounds": [
-            { "name": "entity/villager/hurt1" },
-            { "name": "entity/villager/hurt2" },
-            { "name": "entity/villager/hurt3" },
-            { "name": "entity/villager/hurt4" }
+            { "name": "mob/villager/hurt1" },
+            { "name": "mob/villager/hurt2" },
+            { "name": "mob/villager/hurt3" },
+            { "name": "mob/villager/hurt4" }
         ]
     }
 }
