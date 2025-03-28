@@ -186,7 +186,8 @@
         "sounds": [
             { "name": "entity/villager/hurt1" },
             { "name": "entity/villager/hurt2" },
-            { "name": "entity/villager/hurt3" }
+            { "name": "entity/villager/hurt3" },
+            { "name": "entity/villager/hurt4" }
         ]
     }
 }
