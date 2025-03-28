@@ -180,5 +180,13 @@
             { "name": "mob/zombie/infect1" }
         ]
     }
-    
+    ,
+    "entity.villager.hurt": {
+        "replace": true,
+        "sounds": [
+            { "name": "entity/villager/hurt1" },
+            { "name": "entity/villager/hurt2" },
+            { "name": "entity/villager/hurt3" }
+        ]
+    }
 }
